@@ -1,1 +1,3 @@
-# study deep learning
+# study
+
+### 꾸준히 해볼 수 있길....
