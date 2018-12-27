@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html class="ui-mobile" lang="ko"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><!-- base href="http://m.photoviewer.naver.com/blog?listUrl=https%3A%2F%2Fm.blog.naver.com%2FPostView.nhn%3FblogId%3Dinfoefficien%26logNo%3D221071960843&imgId=5&host=https%3A%2F%2Fm.blog.naver.com%2Fphotoviewer&historyBack=true&blogId=infoefficien&logNo=221071960843" -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+<meta name="format-detection" content="telephone=no"><!-- 아이폰 전화걸기 링크 비활성화 -->
+<title>Blog</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://m.blog.naver.com/favicon.ico?2">
+
+
+
+<meta property="og:image" content="https://m.blog.naver.com/favicon.ico?2">
+<meta property="og:description" content="Blog 이미지 뷰어입니다.">
+
+<link rel="stylesheet" href="hx_files/v.css" type="text/css">
+
+<style type="text/css"></style><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jqm" src="hx_files/jqm.js"></script></head>
+<body class="ui-mobile-viewport ui-overlay-a"><div id="u_skip">
+    <a href="#header"><span>정보영역 바로가기</span></a>
+    <a href="#content"><span>탐색 바로가기</span></a>
+    <a href="#footer"><span>도구영역 바로가기</span></a>
+</div>
+<div class="common_view ui-page ui-page-theme-a ui-page-header-fullscreen ui-page-footer-fullscreen ui-page-active" data-role="page" data-title="Blog" id="common" data-url="common" tabindex="0" style="min-height: 728px;">
+    <div id="header" class="view_header ui-header ui-header-fullscreen ui-bar-inherit ui-header-fixed slidedown" data-role="header" data-position="fixed" data-fullscreen="true" data-tap-toggle="false" tabindex="0" role="banner" style="top: -47.2px;">
+<p class="view_cls js-header-btn" style=""><a href="https://m.blog.naver.com/PostView.nhn?blogId=infoefficien&amp;logNo=221071960843" class="js-cls" data-nclickcode="top.back"><span class="blind">목록으로</span></a></p>
+
+<p class="view_number js-header-btn" style="">
+    <span class="number_f type_color js-no" data-nclickcode="top.list">5</span> / <span class="js-total">35</span>
+</p>
+
+<h1 class="view_title js-title  ui-title" role="heading" aria-level="1">
+	<a href="https://m.blog.naver.com/" class="tit js-service-name">Blog</a>
+	<a class="txt js-title-text js-header-btn" href="" data-nclickcode="">■ Gaussian37</a>
+</h1></div>
+    <div id="content" class="view_center ui-content" data-role="content" tabindex="0" role="main">
+        <p class="view_btn_prev js-arr" style="left: -37px;"><button data-role="none" class="js-arrbtn js-arrbtn-prev N=a:img.prev" data-dir="prev"><span class="blind">이전</span></button></p>
+        <p class="view_btn_next js-arr" style="right: -37px;"><button data-role="none" class="js-arrbtn js-arrbtn-next N=a:img.next" data-dir="next"><span class="blind">다음</span></button></p>
+        <style></style><div class="fotorama--hidden"></div><div class="flick_area fotorama fotorama1545921385043"><div class="fotorama__wrap fotorama__wrap--css3 fotorama__wrap--slide fotorama__wrap--toggle-arrows fotorama__wrap--no-controls" style="width: 100%; min-width: 0px; max-width: 100%;"><div class="fotorama__stage" style="width: 1536px; height: 728px;"><div class="fotorama__stage__shaft fotorama__grab" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px); width: 1536px; margin-left: 0px;"><div class="fotorama__stage__frame fotorama__active fotorama__loaded fotorama__loaded--img" style="left: 0px;"><img src="hx_files/image_003.png" class="fotorama__img" style="width: 274px; height: 100px; left: 631px; top: 314px;" alt="4번째 이미지"><div class="fotorama__html"><span></span></div></div><div class="fotorama__stage__frame fotorama__loaded fotorama__loaded--img" style="left: -1538px;"><img src="hx_files/image_002.png" class="fotorama__img" style="width: 306px; height: 409px; left: 615px; top: 159.5px;" alt="3번째 이미지"><div class="fotorama__html"><span></span></div></div><div class="fotorama__stage__frame fotorama__loaded fotorama__loaded--img" style="left: 1538px;"><img src="hx_files/image.png" class="fotorama__img" style="width: 298px; height: 55px; left: 619px; top: 336.5px;" alt="5번째 이미지"><div class="fotorama__html"><span></span></div></div></div><div class="fotorama__arr fotorama__arr--prev" tabindex="0" role="button" style="display: none;"></div><div class="fotorama__arr fotorama__arr--next" tabindex="0" role="button" style="display: none;"></div><div class="fotorama__video-close"></div></div></div></div>
+    </div>
+    <div id="footer" class="view_menu ui-footer ui-footer-fullscreen ui-bar-inherit ui-footer-fixed slideup" data-role="footer" data-position="fixed" data-fullscreen="true" data-tap-toggle="false" tabindex="0" role="contentinfo" style="bottom: -115px;">
+    <div class="photo_info_box" style=""><a href="https://m.blog.naver.com/infoefficien/221071960843" data-role="none" class="photo_info" data-nclickcode="fot.body" style="opacity: 1;">
+	<em class="s_ic" style="display:none;">
+		<img src="" alt="출처" style="display: none;" width="14" height="14"><span class="name" style="display: none;"></span>
+	</em>
+	<h3 class="info_tit">
+		<span class="tit">
+			<span class="js-title">신경망 기본 개념(Neural Network)</span><span class="info_more" style="display: block;">더보기</span>
+		</span>
+	</h3>
+	<p class="info_txt">DL 개념</p>
+	<p class="view_number" style="display:none;">
+		<span class="number_f js-no point type_color"></span> / <span class="js-total"></span>
+	</p>
+</a>
+<div class="js-btn-detail" style="display:none;">
+	<a href="https://m.blog.naver.com/infoefficien/221071960843" data-role="none" class="btn_detail" data-nclickcode="fot.detail" style="opacity: 1;">상세보기</a>
+</div></div><ul><li class="view_btn_lk" style="display: none;">
+    
+        
+        <div class="u_likeit_list_module">
+            <a href="#" class="u_likeit_list_btn u_none_txt ui-link u_type_dark js-btn" data-btnkey="like" data-attr="likeIt" data-sid="BLOG" data-did="BLOG" data-cid="" data-likeit="0" style="opacity: 1;">
+                <span class="blind">좋아요</span>
+            </a>
+        </div>
+        
+    
+</li>
+<li class="view_btn_cm">
+    
+    <a href="https://m.blog.naver.com/CommentList.nhn?blogId=infoefficien&amp;logNo=221071960843" class="js-btn" data-btnkey="comment" data-nclickcode="fot.cmt" data-attr="commentUrl" style="opacity: 1;">
+        <span class="blind">댓글</span>  <span class="u_re_cnt js-commentCount">3</span>
+    </a>
+    
+</li>
+<li class="view_btn_zm">
+    
+    <a href="https://mblogthumb-phinf.pstatic.net/MjAxNzA4MTRfOTQg/MDAxNTAyNjcyNTU4MDQw.I8v7NPRwszPm8dZFzI0zWNUTevr2U3Y9819z7l4Y7eUg.2FGQ-hZX7jT9FXmymfHFxutLtFF1tPN1wAr67evqf0cg.PNG.infoefficien/image.png?type=w800" class="js-btn" data-btnkey="fullsize" data-nclickcode="fot.zoom" data-attr="orgUrl" style="opacity: 1;">
+        <span class="blind">확대</span> 
+    </a>
+    
+</li>
+</ul></div>
+</div>
+<div class="layer_view js-dnguide" style="display:none">
+    <p class="ly_view_p">사진을 내려받는 중입니다.</p>
+</div>
+<script>
+var nclk_evt = 3; 
+var nsc = "";
+</script>
+
+<script type="text/javascript" src="hx_files/main.js"></script>
+<script>
+require.config({
+	baseUrl:"http://fe.photoviewer.naver.net/viewer",
+	urlArgs: "1524720187784"
+});
+</script>
+<script>
+define("configs", {
+  "serviceName" : "Blog",
+  "serviceUrl" : "https://m.blog.naver.com",
+  "loginAuth" : false,
+  "nclicksId" : null,
+  "viewer" : {
+    "listType" : "FINITE",
+    "layout" : {
+      "header" : [ "BACK", "TITLE", "TOTAL" ],
+      "footer" : [ "LIKE", "COMMENT", "FULLSIZE", "INFO" ],
+      "hdImageSupport" : true
+    },
+    "api" : {
+      "method" : "POST",
+      "uri" : {
+        "range" : "https://m.blog.naver.com/photoviewer/range.nhn",
+        "totalCount" : "https://m.blog.naver.com/photoviewer/totalCount.nhn"
+      },
+      "rangeCount" : 50,
+      "result" : {
+        "successCode" : "000",
+        "errorCode" : [ {
+          "code" : "100",
+          "message" : "접근이 제한된 블로그 입니다.",
+          "action" : "ALERT"
+        }, {
+          "code" : "200",
+          "message" : "삭제되었거나 존재하지 않는 게시물입니다.",
+          "action" : "ALERT"
+        }, {
+          "code" : "300",
+          "message" : "비공개 글 입니다.",
+          "action" : "ALERT"
+        } ],
+        "defaultCode" : {
+          "message" : "죄송합니다. 지금은 처리 할 수 없습니다.",
+          "action" : "ALERT"
+        }
+      },
+      "deleteConfirmMessage" : null
+    }
+  },
+  "likeIt" : {
+    "serviceId" : "BLOG",
+    "displayId" : "BLOG",
+    "domain" : "https://blog.like.naver.com"
+  },
+  "params" : {
+    "serviceId" : "blog",
+    "host" : "https://m.blog.naver.com",
+    "path" : "/photoviewer/",
+    "listUrl" : "https://m.blog.naver.com/PostView.nhn?blogId=infoefficien&logNo=221071960843",
+    "imgId" : "5",
+    "historyBack" : true,
+    "custom" : "blogId=infoefficien&logNo=221071960843&imgId=5",
+    "referer" : "https://m.blog.naver.com/PostView.nhn?blogId=infoefficien&logNo=221071960843&proxyReferer=https%3A%2F%2Fwww.google.com%2F",
+    "likeItHost" : "https://blog.like.naver.com"
+  }
+});
+define("buildinfo", {"category.min.js":"8ca9a91","fullsize.min.js":"3ab4bbe","main.lib.min.js":"45b722a","amdlib.min.js":"6f46ba2","js":"1524720187784","main.min.js":"b6334b5","original.min.js":"3ab4bbe","timestamp":"2018-04-26 14:23:07","thumblist.min.js":"0cc99cf","original.lib.min.js":"6f46ba2","caramel.min.js":"b6334b5","fotorama.css":"6f46ba2","viewer.css":"90124af","v.min.css":"90124af","extra.min.js":"0cc99cf","jquery.mobile.structure-1.4.2.css":"6f46ba2"});
+lcs_do();
+nclk_do();
+</script>
+
+
+
+    <script type="text/javascript" src="hx_files/main_002.js"></script>
+
+
+<script type="text/javascript">
+function closeCurrentWindow() {
+    window.close();
+}
+</script>
+
+<div class="caption layer_view3" style="display: none;"><div class="ly_vertical"><p></p></div></div><div class="doc_layer" style="display: none;"><div class="doc_content">
+</div>
+<a href="#" class="doc_cls ui-link" data-nclickcode="layer.close">닫기</a>
+</div><div class="ui-loader ui-corner-all ui-body-a ui-loader-default"><span class="ui-icon-loading"></span><h1>loading</h1></div></body></html>
