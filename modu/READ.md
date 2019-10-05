@@ -24,5 +24,5 @@
 
 
 ## 07-2 
-> 모델이 얼마나 잘 만들어졌는지 확인하려면? -> training set 과 test set 분리
+> 모델이 얼마나 잘 만들어졌는지 확인하려면? -> training set 과 test set 분리 -> 학습률과 람다(?) 등 하이퍼파라미터 튜닝이 필요할땐 training set 을 조금 쪼개 validation set 으로 한다. 
 
